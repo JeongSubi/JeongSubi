@@ -5,7 +5,7 @@
 
 💬 More Info... [RESUME]()
 
-## Tech Stack
+## Technology Stack
 
 ## Programming Language
 
