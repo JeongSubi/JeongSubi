@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
 
 ### ETC
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Project
 1. [FormBakery](https://github.com/JeongSubi/FormBakery)
