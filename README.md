@@ -22,4 +22,5 @@
 1. [FormBakery](https://github.com/JeongSubi/FormBakery)
 
 ## States
+[![Subi Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSubi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
