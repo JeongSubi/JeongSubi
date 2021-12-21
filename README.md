@@ -7,7 +7,18 @@
 
 ## Technology Stack
 
-## Programming Language
+### Programming Language
+
+### DataBase / ORM
+
+### Framework
+
+### Version Control
+
+### ETC
 
 ## Project
 1. [FormBakery](https://github.com/JeongSubi/FormBakery)
+
+## States
+
