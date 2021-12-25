@@ -1,9 +1,12 @@
 # Introduce
 
+## Jeong Subi
 👩🏻‍💻Jeong Subi  
 📚코드스테이츠 @codestates SEB 34기 (2021.08 ~ )
 
 💬 More Info... [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
+
+<br>
 
 ## Technology Stack
 
@@ -51,11 +54,14 @@
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
+<br>
 
 ## Project
 1st. project  
 [👉🏻 FormBakery 프로젝트 Wiki 바로가기](https://github.com/JeongSubi/FormBakery)  
 [👉🏻 FormBakery 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
+
+<br>
 
 ## Stats
 [![Subi Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSubi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
