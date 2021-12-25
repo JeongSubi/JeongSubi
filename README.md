@@ -3,7 +3,7 @@
 👩🏻‍💻Jeong Subi  
 📚코드스테이츠 @codestates SEB 34기 (2021.08 ~ )
 
-💬 More Info... [RESUME]()
+💬 More Info... [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
 
 ## Technology Stack
 
