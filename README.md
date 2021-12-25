@@ -53,7 +53,9 @@
 
 
 ## Project
-1. [FormBakery](https://github.com/JeongSubi/FormBakery)
+1st. project  
+[👉🏻 FormBakery 프로젝트 Wiki 바로가기](https://github.com/JeongSubi/FormBakery)  
+[👉🏻 FormBakery 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
 
 ## Stats
 [![Subi Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSubi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
