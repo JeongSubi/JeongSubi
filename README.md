@@ -51,7 +51,7 @@
 
 #### ETC
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/DBeaver-FF6C37?style=for-the-badge&logo=dbeaver&logoColor=white)
+![](https://img.shields.io/badge/DBeaver-404D59?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
