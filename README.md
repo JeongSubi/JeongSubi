@@ -66,7 +66,7 @@
 [👉🏻 FormBakery 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
 
 2nd. project
-[👉🏻 rightnow 프로젝트 Wiki 바로가기](https://github.com/JeongSubi/FormBakery)  
+[👉🏻 rightnow 프로젝트 Wiki 바로가기](https://github.com/codestates/rightnow/wiki)  
 [👉🏻 rightnow 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
 
 <br>
