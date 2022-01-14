@@ -1,9 +1,9 @@
 # Introduce
 
-👩🏻‍💻Jeong Subi  
-📚코드스테이츠 @codestates SEB 34기 (2021.08 ~ )
+👩🏻‍💻 **Jeong Subi**  
+👉🏻 **JavaScript Backend enginner**
 
-💬 More Info... [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
+💬 **More Info...** [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
 
 <br>
 
@@ -62,7 +62,7 @@
 
 ## 📚 Activity / Education
 
-**🏫 CodeState**
+**🏫 CodeStates**
 
 **기간:** 2021.08 ~ 2021.12
 
@@ -84,11 +84,33 @@ html, css, javascript 및 React 기초 등 프론트엔드 개발에 필요한 �
 <br>
 
 ## Project
-1st. project  
+**1st. project: FormBakery**
+: 사용자의 현재 위치를 기반으로 주변의 같은 관심사의 다른 사용자들과 자동으로 모임을 매칭시켜 주는 위치기반 서비스
+
+프로젝트 진행 기간 : 2021-12-13 ~
+
+👨‍👨‍👧‍👧 참여인원 : 3명
+
+🧑🏻‍💻 포지션 : Backend
+
+👔 역할
+
 [👉🏻 FormBakery 프로젝트 Wiki 바로가기](https://github.com/JeongSubi/FormBakery)  
 [👉🏻 FormBakery 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
 
-2nd. project  
+<br>
+
+**2nd. project: RightNow**  
+: 사용자의 현재 위치를 기반으로 주변의 같은 관심사의 다른 사용자들과 자동으로 모임을 매칭시켜 주는 위치기반 서비스
+
+프로젝트 진행 기간 : 2021-12-27 ~
+
+👨‍👨‍👧‍👧 참여인원 : 4명
+
+🧑🏻‍💻 포지션 : Backend
+
+👔 역할
+
 [👉🏻 rightnow 프로젝트 Wiki 바로가기](https://github.com/codestates/rightnow/wiki)  
 [👉🏻 rightnow 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
 
