@@ -1,7 +1,8 @@
 # Introduce
 
 👩🏻‍💻 **Jeong Subi**  
-👉🏻 **JavaScript Backend enginner**
+👉🏻 **JavaScript Backend enginner**  
+📝 **Blog** [notion](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)
 
 💬 **More Info...** [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
 
