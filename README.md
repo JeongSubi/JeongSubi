@@ -7,7 +7,7 @@
 
 <br>
 
-## Technology Stack
+## 🖥 Technology Stack
 
 #### Programming Language
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,6 +57,29 @@
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+
+<br>
+
+## 📚 Activity / Education
+
+**🏫 CodeState**
+
+**기간:** 2021.08 ~ 2021.12
+
+**교육내용**
+
+**📗 Single Page Application (2021.08.23 ~ 2021.10.01)**
+html, css, javascript 및 React 기초 등 프론트엔드 개발에 필요한 기본적인 지식들을 교육 받았습니다.
+
+**📘 Frontend & Backend Basic (2021.10.05 ~ 2021.11.05)**
+
+기본적인 자료구조 및 알고리즘 지식과 React, Redux등 프론트엔드 심화, Node.js를 통한 백엔드 기초 지식을 교육 받았습니다.
+
+
+**📙 Backend & Computer Science (2021.11.08 ~ 2021.12.10)**
+
+컴퓨터 공학 기초와 네트워크, 인증/보안 등 Computer Science에 대한 기본적인 지식과 관계형 데이터베이스, NoSQL, MVC 디자인 패턴을 사용한 백엔드 개발 등 백엔드에 대한지식 , 마지막으로 AWS를 이용한 클라이언트 및 서버 배포 및 배포 자동화, 도커를 이용한 배포를 통해 배포 기술에 대해 교육받았습니다.
+
 
 <br>
 
