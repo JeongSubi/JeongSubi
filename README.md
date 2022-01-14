@@ -1,8 +1,8 @@
 # Introduce
 
-👩🏻‍💻 **Jeong Subi**  
-👉🏻 **JavaScript Backend enginner**  
-📝 **Blog** [notion](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)
+👩🏻‍💻 **Jeong Subi** : JavaScript Backend enginner
+
+📝 **Stugy Logs** : [Blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)
 
 💬 **More Info...** [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
 
@@ -111,6 +111,19 @@ html, css, javascript 및 React 기초 등 프론트엔드 개발에 필요한 �
 🧑🏻‍💻 포지션 : Backend
 
 👔 역할
+
+- Basic
+  - 아이디어 기획
+  - Architecture Diagram 작성
+  - DB 작성
+  - API 작성
+- Front
+- Back
+- 로그인(소셜로그인), 로그아웃, 회원가입, 회원탈퇴
+- 마이페이지(회원정보수정, 비밀번호 찾기, 친구관리)
+- 임시계정 회원가입, 로그인
+- 관리자 페이지(신고내역, 유저정지, 카테고리 관리)
+- 유저 신고하기
 
 [👉🏻 rightnow 프로젝트 Wiki 바로가기](https://github.com/codestates/rightnow/wiki)  
 [👉🏻 rightnow 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
