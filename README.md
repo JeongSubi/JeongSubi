@@ -97,6 +97,21 @@
 
 👔 역할
 
+- Basic
+  - 아이디어 기획
+  - DB 작성
+  - API 작성
+- Front
+- Back
+  - 로그인 요청 POST
+  - 로그아웃 요청 POST
+  - 회원가입 요청 PUT
+   - 회원 정보 수정 요청 PUT
+  - 회원 탈퇴 요청 DELETE
+  - 폼 생성 요청 PUT
+  - 폼 수정 요청 PUT
+  - 폼 삭제 요청 DELETE
+  
 [👉🏻 FormBakery 프로젝트 Wiki 바로가기](https://github.com/JeongSubi/FormBakery)  
 [👉🏻 FormBakery 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
 
@@ -127,7 +142,7 @@
 - 유저 신고하기
 
 [👉🏻 rightnow 프로젝트 Wiki 바로가기](https://github.com/codestates/rightnow/wiki)  
-[👉🏻 rightnow 사이트 바로가기](https://form-bakery-qg8343iof-jangsebari.vercel.app/)
+[👉🏻 rightnow 사이트 바로가기]()
 
 <br>
 
