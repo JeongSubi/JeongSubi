@@ -142,7 +142,7 @@
 - 유저 신고하기
 
 [👉🏻 rightnow 프로젝트 Wiki 바로가기](https://github.com/codestates/rightnow/wiki)  
-[👉🏻 rightnow 사이트 바로가기]()
+[👉🏻 rightnow 사이트 바로가기](https://right-now.link)
 
 <br>
 
