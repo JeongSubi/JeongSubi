@@ -4,6 +4,8 @@
 📝 **Stugy Logs** : [notion_blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)  
 📨 **Email** : jsb97613@naver.com
 
+👋🏻 Hi
+
 ## Tech Stack
 
 #### Tech
