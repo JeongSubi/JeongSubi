@@ -4,7 +4,8 @@
 📝 **Stugy Logs** : [notion_blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)  
 📨 **Email** : jsb97613@naver.com
 
-👋🏻 Hi
+Node.js와 Express, Mysql로 데이터베이스를 구축 가능한 백엔드 신입 개발자 정수비입니다.
+두 번의 웹 페이지 프로젝트 경험이 있으며, 현재는 취업준비중에 있습니다!
 
 ## Tech Stack
 
