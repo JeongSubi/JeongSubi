@@ -1,4 +1,5 @@
-# Introduce
+![](https://user-images.githubusercontent.com/86769182/151322798-a023c0e5-585f-42c2-a176-980ae36b04b0.jpeg)
+
 
 👩🏻‍💻 **Jeong Subi** : JavaScript Backend enginner
 
