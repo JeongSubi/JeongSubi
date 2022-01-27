@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/86769182/151322798-a023c0e5-585f-42c2-a176-980ae36b04b0.jpeg" width="1000" height="230" />
 
 
-📝 **Stugy Logs** : [Blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)
-
-💬 **More Info...** [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)
+📝 **Stugy Logs** : [Blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)  
+💬 **More Info...** [RESUME](https://www.notion.so/subilog/Resume-c7f17870df8745d68bc4be842dcf05f6)  
+📨 **Email** : jsb97613@naver.com
 
 <br>
 
