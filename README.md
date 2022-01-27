@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/86769182/151322798-a023c0e5-585f-42c2-a176-980ae36b04b0.jpeg" width="1000" height="230" />
 
-
+//
 📝 **Stugy Logs** : [Notion_blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)  
 📨 **Email** : jsb97613@naver.com
 
