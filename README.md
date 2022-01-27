@@ -5,9 +5,7 @@
 📝 **Stugy Logs** : [Notion_blog](https://www.notion.so/subilog/Programming-Study-Records-f67b9bd439a542239de151737cde29dd)  
 📨 **Email** : jsb97613@naver.com
 
-<br>
-
-## 🖥 Technology Stack
+## Tech Stack
 
 #### Programming Language
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
