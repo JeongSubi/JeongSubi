@@ -6,7 +6,7 @@
 📨 **Email** : jsb97613@naver.com
 
 🗣 **Node.js**와 **Express**, **Mysql**로 데이터베이스를 구축 가능한 **백엔드 개발자 정수비**입니다.  
-&nbsp; &nbsp; &nbsp; 두 번의 웹 페이지 프로젝트 경험이 있으며, 현재는 취업준비중에 있습니다!
+&nbsp; &nbsp; &nbsp;
 
 ## Tech Stack
 
