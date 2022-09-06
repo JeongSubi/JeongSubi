@@ -1,7 +1,7 @@
 
 📨 **Email** : jsb97613@naver.com
 
-🗣 **Node.js**와 **Express**, **Mysql**로 데이터베이스를 구축 가능한 **백엔드 개발자 정수비**입니다.  
+🗣 **Node.js**와 **Express**, **NestJS**, **Mysql**, **Postresql** 로 데이터베이스를 구축 가능한 **백엔드 개발자 정수비**입니다.  
 &nbsp; &nbsp; &nbsp;
 
 ## Tech Stack
@@ -18,11 +18,6 @@
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Hooks-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Axios-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
 ![](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
