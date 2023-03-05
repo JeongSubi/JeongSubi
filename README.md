@@ -9,5 +9,6 @@ Welcome to my Github !
 - NestJS/ Express
 - GraphQL 
 - Mysql/ Postresql
+- TypeORM / SequalizeORM
 - Jest
 
